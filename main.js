@@ -2,7 +2,7 @@ let cantidad = document.querySelector('#cantidad')
 let boton = document.querySelector('#generar')
 let contraseña = document.querySelector('#contrasena')
 
-const cadenacaracteres = 'QWERTYUIOPLKJHGFDSAZXCVBNMqwertyuiopñlkjhgfdsazxcvbnm012345678'
+const cadenacaracteres = 'QWERTYUIOPLKJHGFDSAZXCVBNMqwertyuiopñlkjhgfdsazxcvbnm0123456789!#$%&/?{´+-.,;:<>*'
 
 function generar() {
 
